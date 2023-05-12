@@ -1,0 +1,52 @@
+#console hard 5 5904 -216
+#play,Mix Master,37
+
+console hard 5
+   1
+
+#Start
+ 190
+
+#lvl_start
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+   1,R,J
+   7,R
+   6,R,J
+   4,R
+  14,R,D,X
+   1,R,J
+  10,R,D,X
+  40
+
+Read,CelesteTAS/5B,lvl_a-00,lvl_d-05
+
+#lvl_d-05
+  15,R,D,X
+   1,R,J
+   5,R,D,X
+  13,R,G
+  12,R,J,G
+   5,R,G
+   1,R,J,G
+  29,R,G
+   7,R,J,G
+   5,R,G
+   1,R,J,G
+  10,R,G
+   1,R,J,G
+   4,R,G
+   5,R,J,G
+   1,L
+   5,R
+  14,R,U,X
+#Golden
+   1,S,N
+   1,U,J
+   1,O
+  31
+Add 58
+#1:40.249(5897)

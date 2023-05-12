@@ -1,0 +1,69 @@
+#console load 5 2424 -47
+#play,Depths,37
+
+#console load 5 3296 1768
+#play,Search,37
+
+console load 5
+   1
+
+#Start
+ 110
+
+#lvl_a-00b
+   1,S
+   1,D,J
+  34
+   4,R,Z
+   1,R,J
+   7,R
+   6,R,J
+   1,J
+   1
+   1,R
+  10,R,D,X
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+   1,R,J
+   6,R,U,X
+  40
+
+#lvl_a-00d
+read,CelesteTAS/5A,lvl_a-00d,lvl_e-11
+
+#lvl_e-11
+  14,R,G
+   2,R,J,G
+   2,R,G
+   1,R,G
+   1,L
+   6,R,D,X
+   1,R,K,G
+   5
+   6,R
+   7,R,J
+  15,R,D,X
+   2,R,J
+   5,R,D,X
+   6,R,K,G
+   6,R
+   4,R,J
+   2,R
+  13,R,J
+  15,R,D,X
+   3,R
+   1,R,J
+  14,R,D,X
+   1,L,J
+  10,U,Z
+#Golden
+   1,S
+   1,U,J
+   1,O
+  31
+Add 58
+#3:09.006(11118)
+
+

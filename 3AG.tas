@@ -1,0 +1,50 @@
+#console load 3 4279 -20
+#play,Huge Mess,37
+
+#console load 3 4705 -287
+#play,Elevator Shaft,37
+
+#console load 3 2121 -559.9
+#play,Rooftop,37
+
+console load 3
+   1
+
+#Start
+  61
+
+#lvl_s0
+   4,R,J
+   3,J
+   2
+  10,R,D,X
+   1,R,J
+   3,R
+   1,J
+   1
+   2,R
+   1,R,J
+   3
+   8,R,D,X
+   1,R,J,G
+   4
+   7,R
+   1,R,J
+   7,R,D,X
+   2,R,J,G
+  12,R
+   1,R,J
+   8,R
+  40
+
+#lvl_s1
+read,CelesteTAS/3A,lvl_s1,lvl_roof07
+
+#lvl_roof07
+   1,R
+#Golden
+   1,S,N
+   1,D,J
+  18
+ChapterTime: 3:14.514(11442)
+

@@ -1,0 +1,66 @@
+#console hard 3 4310 -401
+#play,Library,37
+
+console hard 3
+   1
+
+#Start
+  61
+
+#lvl_00
+   2,R,J
+   5,J
+   1,R
+   1,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+  11,R,J
+   2,R
+   1,R,J
+  10,R
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+  13,R
+   4,R,J
+   1
+   5,R,X
+  40
+
+Read,CelesteTAS/3B,lvl_01,lvl_end
+
+#lvl_end
+   6,D
+   6,R,D
+   1,L
+   1,L,D
+   2,L
+   1,R
+   2,R,D
+   1,D
+   1,R,D
+   1
+   4,D,X
+   1,R,J
+   6,R
+   6,R,J
+   4,R
+  25,R,D,X
+   1,R
+  14,R,Z
+   3,R,J
+   1,R
+   5,R,J
+  11,R
+  30,R,Z
+  14,R,J
+  15,R,U,X
+#Golden
+   1,S,N
+   1,U,J
+   1,O
+  31
+Add 58
+#1:27.023(5119)
