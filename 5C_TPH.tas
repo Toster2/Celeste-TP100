@@ -1,4 +1,4 @@
-RecordCount: 353
+RecordCount: 407
 
 console rmx2 5
    1
@@ -93,12 +93,12 @@ console rmx2 5
   26,R,J
   18,R
   21,R,Z
-  17,R,X
-  13,R,D,C
-  43,L
-  11,R,U,X
-  25,R,C
-  10,U,X
+  21,R,X
+  15,U,C
+   4,D
+  18,R,D
+  15,U,X
+   3,L
   33,L,J
   24,R,X
   18,D,C
@@ -127,5 +127,5 @@ console rmx2 5
    5,D
    1,L,G
   47,L,J,G
-ChapterTime: 0:30.141(1773)
+ChapterTime: 0:29.512(1736)
  
